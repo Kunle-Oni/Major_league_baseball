@@ -48,6 +48,4 @@ All queries live in [`major_league_football.sql`](./major_league_football.sql).
 - Salary figures in the spending queries are converted to millions (or billions) for readability.
 ## Usage
  
-Run against a MySQL instance with the four tables loaded, e.g.:
- 
 Individual queries can also be copied out and run independently — each is self-contained.
